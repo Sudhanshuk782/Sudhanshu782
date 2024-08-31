@@ -1,3 +1,4 @@
+![logo](https://github.com/Sudhanshuk782/Sudhanshu782/blob/main/BMS.png)
 <h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
 <h3 align="center">A passionate Algorithm Developer for Battery Management System in order to safe operation of EV.</h3>
 <img align="right" alt="BMS" width="400" src="https://tenor.com/view/loading-battery-charge-full-charging-gif-17067866" >
